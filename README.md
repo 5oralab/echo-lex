@@ -1,2 +1,5 @@
 # echo-lex
-Lightweight Perl utilities and helpers (echo-lex)
+
+Lightweight `Perl` utilities maintained by @5oralab.
+
+- Focus: Crafting self-hosted utilities and privacy-friendly web tools.
